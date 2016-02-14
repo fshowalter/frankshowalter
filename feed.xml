@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <feed xmlns='http://www.w3.org/2005/Atom'>
   <title>Frank Showalter</title>
-  <link href='https://www.frankshowalter.com/feed.xml' rel='self' />
-  <link href='https://www.frankshowalter.com/' />
+  <link href='http://www.frankshowalter.com/feed.xml' rel='self' />
+  <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-02-13T15:26:08-05:00</updated>
+  <updated>2016-02-14T05:48:26-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
@@ -13,7 +13,7 @@
   <entry>
     <title>On Abandoning Books</title>
     <link href='https://medium.com/@frankshowalter/on-abandoning-books-34a100bbe004' />
-    <id>2016-02-13T20:24:00Z</id>
+    <id>https://medium.com/@frankshowalter/on-abandoning-books-34a100bbe004</id>
     <updated>2016-02-13T20:24:00Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;https://medium.com/@frankshowalter/on-abandoning-books-34a100bbe004&quot;&gt;On Abandoning Books&lt;/a&gt; on Medium.
@@ -22,7 +22,7 @@
   <entry>
     <title>The Devils of D-Day by Graham Masterton</title>
     <link href='https://www.goodreads.com/review/show/359175824' />
-    <id>2016-02-10T11:31:00Z</id>
+    <id>https://www.goodreads.com/review/show/359175824</id>
     <updated>2016-02-10T11:31:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.goodreads.com/review/show/359175824&quot;&gt;The Devils of D-Day by Graham Masterton&lt;/a&gt; on Goodreads.
@@ -31,7 +31,7 @@
   <entry>
     <title>Black Mass (2015)</title>
     <link href='https://www.franksmovielog.com/reviews/black-mass-2015/' />
-    <id>2016-02-06T19:31:02Z</id>
+    <id>https://www.franksmovielog.com/reviews/black-mass-2015/</id>
     <updated>2016-02-06T19:31:02Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/black-mass-2015/&quot;&gt;Black Mass (2015)&lt;/a&gt; on Frank&#39;s Movie Log.
@@ -40,7 +40,7 @@
   <entry>
     <title>Better Rails Callbacks</title>
     <link href='http://blogs.sequoiainc.com/better-rails-callbacks/' />
-    <id>2015-12-31T01:07:02Z</id>
+    <id>http://blogs.sequoiainc.com/better-rails-callbacks/</id>
     <updated>2015-12-31T01:07:02Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/better-rails-callbacks/&quot;&gt;Better Rails Callbacks&lt;/a&gt; on Sequoia Blogs.
@@ -49,7 +49,7 @@
   <entry>
     <title>Introducing Flux</title>
     <link href='http://blogs.sequoiainc.com/introducing-flux/' />
-    <id>2015-12-20T01:32:00Z</id>
+    <id>http://blogs.sequoiainc.com/introducing-flux/</id>
     <updated>2015-12-20T01:32:00Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/introducing-flux/&quot;&gt;Introducing Flux&lt;/a&gt; on Sequoia Blogs.
@@ -58,7 +58,7 @@
   <entry>
     <title>Better Rails View Helpers</title>
     <link href='http://blogs.sequoiainc.com/better-rails-view-helpers/' />
-    <id>2015-12-18T02:11:00Z</id>
+    <id>http://blogs.sequoiainc.com/better-rails-view-helpers/</id>
     <updated>2015-12-18T02:11:00Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/better-rails-view-helpers/&quot;&gt;Better Rails View Helpers&lt;/a&gt; on Sequoia Blogs.
@@ -67,7 +67,7 @@
   <entry>
     <title>Down the Responsive Image Rabbit Hole</title>
     <link href='http://blogs.sequoiainc.com/down-the-responsive-image-rabbit-hole/' />
-    <id>2015-12-17T02:22:02Z</id>
+    <id>http://blogs.sequoiainc.com/down-the-responsive-image-rabbit-hole/</id>
     <updated>2015-12-17T02:22:02Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/down-the-responsive-image-rabbit-hole/&quot;&gt;Down the Responsive Image Rabbit Hole&lt;/a&gt; on Sequoia Blogs.
@@ -76,7 +76,7 @@
   <entry>
     <title>5 Speed Bumps for Rails in the Enterprise</title>
     <link href='http://blogs.sequoiainc.com/5-speed-bumps-for-rails-in-the-enterprise/' />
-    <id>2015-12-16T01:37:02Z</id>
+    <id>http://blogs.sequoiainc.com/5-speed-bumps-for-rails-in-the-enterprise/</id>
     <updated>2015-12-16T01:37:02Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/5-speed-bumps-for-rails-in-the-enterprise/&quot;&gt;5 Speed Bumps for Rails in the Enterprise&lt;/a&gt; on Sequoia Blogs.
@@ -85,7 +85,7 @@
   <entry>
     <title>How to Install Ghost on Amazon EC2</title>
     <link href='http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/' />
-    <id>2015-11-29T18:46:02Z</id>
+    <id>http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/</id>
     <updated>2015-11-29T18:46:02Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/&quot;&gt;How to Install Ghost on Amazon EC2&lt;/a&gt; on Sequoia Blogs.
@@ -94,7 +94,7 @@
   <entry>
     <title>Introducing React</title>
     <link href='http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/' />
-    <id>2015-09-17T01:16:02Z</id>
+    <id>http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/</id>
     <updated>2015-09-17T01:16:02Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/&quot;&gt;Introducing React&lt;/a&gt; on Sequoia Blogs.
