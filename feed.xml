@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-02-17T07:00:42-05:00</updated>
+  <updated>2016-02-22T06:47:52-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Refugee (Bio of a Space Tyrant #1) by Piers Anthony</title>
+    <link href='https://www.goodreads.com/review/show/359293257' />
+    <id>https://www.goodreads.com/review/show/359293257</id>
+    <updated>2016-02-22T11:46:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.goodreads.com/review/show/359293257&quot;&gt;Refugee (Bio of a Space Tyrant #1) by Piers Anthony&lt;/a&gt; on Goodreads.
+    </content>
+  </entry>
   <entry>
     <title>Chain Lightning (1950)</title>
     <link href='https://www.franksmovielog.com/reviews/chain-lightning-1950/' />
@@ -89,15 +98,6 @@
     <updated>2015-12-16T01:37:02Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/5-speed-bumps-for-rails-in-the-enterprise/&quot;&gt;5 Speed Bumps for Rails in the Enterprise&lt;/a&gt; on Sequoia Blogs.
-    </content>
-  </entry>
-  <entry>
-    <title>How to Install Ghost on Amazon EC2</title>
-    <link href='http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/' />
-    <id>http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/</id>
-    <updated>2015-11-29T18:46:02Z</updated>
-    <content type='html'>
-      I published &lt;a href=&quot;http://blogs.sequoiainc.com/installing-ghost-on-amazon-ec2/&quot;&gt;How to Install Ghost on Amazon EC2&lt;/a&gt; on Sequoia Blogs.
     </content>
   </entry>
 </feed>
