@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-02-26T06:33:05-05:00</updated>
+  <updated>2016-03-05T06:44:25-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>The Big Sleep by Raymond Chandler</title>
+    <link href='https://www.goodreads.com/review/show/359121899' />
+    <id>https://www.goodreads.com/review/show/359121899</id>
+    <updated>2016-03-05T11:23:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.goodreads.com/review/show/359121899&quot;&gt;The Big Sleep by Raymond Chandler&lt;/a&gt; on Goodreads.
+    </content>
+  </entry>
   <entry>
     <title>Refugee (Bio of a Space Tyrant #1) by Piers Anthony</title>
     <link href='https://www.goodreads.com/review/show/359293257' />
@@ -89,15 +98,6 @@
     <updated>2015-12-17T02:22:02Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/down-the-responsive-image-rabbit-hole/&quot;&gt;Down the Responsive Image Rabbit Hole&lt;/a&gt; on Sequoia Blogs.
-    </content>
-  </entry>
-  <entry>
-    <title>5 Speed Bumps for Rails in the Enterprise</title>
-    <link href='http://blogs.sequoiainc.com/5-speed-bumps-for-rails-in-the-enterprise/' />
-    <id>http://blogs.sequoiainc.com/5-speed-bumps-for-rails-in-the-enterprise/</id>
-    <updated>2015-12-16T01:37:02Z</updated>
-    <content type='html'>
-      I published &lt;a href=&quot;http://blogs.sequoiainc.com/5-speed-bumps-for-rails-in-the-enterprise/&quot;&gt;5 Speed Bumps for Rails in the Enterprise&lt;/a&gt; on Sequoia Blogs.
     </content>
   </entry>
 </feed>
