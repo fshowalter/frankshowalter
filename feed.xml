@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-03-05T06:44:25-05:00</updated>
+  <updated>2016-03-14T07:38:30-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Introducing Redux</title>
+    <link href='http://blogs.sequoiainc.com/introducing-redux/' />
+    <id>http://blogs.sequoiainc.com/introducing-redux/</id>
+    <updated>2016-03-14T11:35:00Z</updated>
+    <content type='html'>
+      I published &lt;a href=&quot;http://blogs.sequoiainc.com/introducing-redux/&quot;&gt;Introducing Redux&lt;/a&gt; on Sequoia Blogs.
+    </content>
+  </entry>
   <entry>
     <title>The Big Sleep by Raymond Chandler</title>
     <link href='https://www.goodreads.com/review/show/359121899' />
@@ -89,15 +98,6 @@
     <updated>2015-12-18T02:11:00Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/better-rails-view-helpers/&quot;&gt;Better Rails View Helpers&lt;/a&gt; on Sequoia Blogs.
-    </content>
-  </entry>
-  <entry>
-    <title>Down the Responsive Image Rabbit Hole</title>
-    <link href='http://blogs.sequoiainc.com/down-the-responsive-image-rabbit-hole/' />
-    <id>http://blogs.sequoiainc.com/down-the-responsive-image-rabbit-hole/</id>
-    <updated>2015-12-17T02:22:02Z</updated>
-    <content type='html'>
-      I published &lt;a href=&quot;http://blogs.sequoiainc.com/down-the-responsive-image-rabbit-hole/&quot;&gt;Down the Responsive Image Rabbit Hole&lt;/a&gt; on Sequoia Blogs.
     </content>
   </entry>
 </feed>
