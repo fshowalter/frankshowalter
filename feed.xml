@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-03-14T07:38:30-04:00</updated>
+  <updated>2016-03-15T07:08:08-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>An Enzyme Gotcha</title>
+    <link href='http://blogs.sequoiainc.com/an-enzyme-gotcha/' />
+    <id>http://blogs.sequoiainc.com/an-enzyme-gotcha/</id>
+    <updated>2016-03-15T10:46:00Z</updated>
+    <content type='html'>
+      I published &lt;a href=&quot;http://blogs.sequoiainc.com/an-enzyme-gotcha/&quot;&gt;An Enzyme Gotcha&lt;/a&gt; on Sequoia Blogs.
+    </content>
+  </entry>
   <entry>
     <title>Introducing Redux</title>
     <link href='http://blogs.sequoiainc.com/introducing-redux/' />
@@ -89,15 +98,6 @@
     <updated>2015-12-20T01:32:00Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/introducing-flux/&quot;&gt;Introducing Flux&lt;/a&gt; on Sequoia Blogs.
-    </content>
-  </entry>
-  <entry>
-    <title>Better Rails View Helpers</title>
-    <link href='http://blogs.sequoiainc.com/better-rails-view-helpers/' />
-    <id>http://blogs.sequoiainc.com/better-rails-view-helpers/</id>
-    <updated>2015-12-18T02:11:00Z</updated>
-    <content type='html'>
-      I published &lt;a href=&quot;http://blogs.sequoiainc.com/better-rails-view-helpers/&quot;&gt;Better Rails View Helpers&lt;/a&gt; on Sequoia Blogs.
     </content>
   </entry>
 </feed>
