@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-09-02T21:33:41-04:00</updated>
+  <updated>2016-09-05T14:51:31-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Haunted Gold (1932)</title>
+    <link href='https://www.franksmovielog.com/reviews/haunted-gold-1932/' />
+    <id>https://www.franksmovielog.com/reviews/haunted-gold-1932/</id>
+    <updated>2016-09-05</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/haunted-gold-1932/&quot;&gt;Haunted Gold (1932)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Suicide Squad (2016)</title>
     <link href='https://www.franksmovielog.com/reviews/suicide-squad-2016/' />
@@ -89,15 +98,6 @@
     <updated>2016-03-05T11:23:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.goodreads.com/review/show/359121899&quot;&gt;The Big Sleep by Raymond Chandler&lt;/a&gt; on Goodreads.
-    </content>
-  </entry>
-  <entry>
-    <title>Refugee (Bio of a Space Tyrant #1) by Piers Anthony</title>
-    <link href='https://www.goodreads.com/review/show/359293257' />
-    <id>https://www.goodreads.com/review/show/359293257</id>
-    <updated>2016-02-22T11:46:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.goodreads.com/review/show/359293257&quot;&gt;Refugee (Bio of a Space Tyrant #1) by Piers Anthony&lt;/a&gt; on Goodreads.
     </content>
   </entry>
 </feed>
