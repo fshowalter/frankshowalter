@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-09-12T20:09:38-04:00</updated>
+  <updated>2016-09-19T22:05:49-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Ride Him, Cowboy (1932)</title>
+    <link href='https://www.franksmovielog.com/reviews/ride-him-cowboy-1932/' />
+    <id>https://www.franksmovielog.com/reviews/ride-him-cowboy-1932/</id>
+    <updated>2016-09-20T02:02:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/ride-him-cowboy-1932/&quot;&gt;Ride Him, Cowboy (1932)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Don't Breathe (2016)</title>
     <link href='https://www.franksmovielog.com/reviews/dont-breathe-2016/' />
@@ -89,15 +98,6 @@
     <updated>2016-03-15T10:46:00Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;http://blogs.sequoiainc.com/an-enzyme-gotcha/&quot;&gt;An Enzyme Gotcha&lt;/a&gt; on Sequoia Blogs.
-    </content>
-  </entry>
-  <entry>
-    <title>Introducing Redux</title>
-    <link href='http://blogs.sequoiainc.com/introducing-redux/' />
-    <id>http://blogs.sequoiainc.com/introducing-redux/</id>
-    <updated>2016-03-14T11:35:00Z</updated>
-    <content type='html'>
-      I published &lt;a href=&quot;http://blogs.sequoiainc.com/introducing-redux/&quot;&gt;Introducing Redux&lt;/a&gt; on Sequoia Blogs.
     </content>
   </entry>
 </feed>
