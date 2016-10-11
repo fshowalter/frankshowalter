@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-10-03T20:59:03-04:00</updated>
+  <updated>2016-10-10T20:35:08-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Mars Attacks (1996)</title>
+    <link href='https://www.franksmovielog.com/reviews/mars-attacks-1996/' />
+    <id>https://www.franksmovielog.com/reviews/mars-attacks-1996/</id>
+    <updated>2016-10-11T00:28:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/mars-attacks-1996/&quot;&gt;Mars Attacks (1996)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Riders of Destiny (1933)</title>
     <link href='https://www.franksmovielog.com/reviews/riders-of-destiny-1933/' />
@@ -89,15 +98,6 @@
     <updated>2016-05-30T19:47:00Z</updated>
     <content type='html'>
       I published &lt;a href=&quot;https://blogs.sequoiainc.com/updating-www-sequoiainc-com-part-2-going-responsive/&quot;&gt;Updating www.sequoiainc.com Part 2: Going Responsive&lt;/a&gt; on Sequoia Blogs.
-    </content>
-  </entry>
-  <entry>
-    <title>Updating www.sequoiainc.com Part 1: Going Serverless</title>
-    <link href='https://blogs.sequoiainc.com/updating-www-sequoiainc-com-part-1-going-serverless/' />
-    <id>https://blogs.sequoiainc.com/updating-www-sequoiainc-com-part-1-going-serverless/</id>
-    <updated>2016-05-30T19:44:00Z</updated>
-    <content type='html'>
-      I published &lt;a href=&quot;https://blogs.sequoiainc.com/updating-www-sequoiainc-com-part-1-going-serverless/&quot;&gt;Updating www.sequoiainc.com Part 1: Going Serverless&lt;/a&gt; on Sequoia Blogs.
     </content>
   </entry>
 </feed>
