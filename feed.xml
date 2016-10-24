@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-10-17T20:47:26-04:00</updated>
+  <updated>2016-10-24T15:05:44-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>The Pit (1981)</title>
+    <link href='https://www.franksmovielog.com/reviews/the-pit-1981/' />
+    <id>https://www.franksmovielog.com/reviews/the-pit-1981/</id>
+    <updated>2016-10-24T19:04:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-pit-1981/&quot;&gt;The Pit (1981)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Phantasm (1979)</title>
     <link href='https://www.franksmovielog.com/reviews/phantasm-1979/' />
@@ -89,15 +98,6 @@
     <updated>2016-08-19</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-killer-nun-1979/&quot;&gt;The Killer Nun (1979)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Getting Flexbox Sizes In Javascript</title>
-    <link href='https://blogs.sequoiainc.com/getting-flexbox-sizes-in-javascript/' />
-    <id>https://blogs.sequoiainc.com/getting-flexbox-sizes-in-javascript/</id>
-    <updated>2016-05-30T19:50:00Z</updated>
-    <content type='html'>
-      I published &lt;a href=&quot;https://blogs.sequoiainc.com/getting-flexbox-sizes-in-javascript/&quot;&gt;Getting Flexbox Sizes In Javascript&lt;/a&gt; on Sequoia Blogs.
     </content>
   </entry>
 </feed>
