@@ -5,7 +5,7 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-10-30T14:49:32-04:00</updated>
+  <updated>2016-10-31T21:22:38-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
@@ -26,6 +26,15 @@
     <updated>2016-10-18T00:44:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/phantasm-1979/&quot;&gt;Phantasm (1979)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
+  <entry>
+    <title>Torso (1973)</title>
+    <link href='https://www.franksmovielog.com/reviews/torso-1973/' />
+    <id>https://www.franksmovielog.com/reviews/torso-1973/</id>
+    <updated>2016-10-11T00:28:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/torso-1973/&quot;&gt;Torso (1973)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
   <entry>
@@ -89,15 +98,6 @@
     <updated>2016-08-29</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/suicide-squad-2016/&quot;&gt;Suicide Squad (2016)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>The Killer Nun (1979)</title>
-    <link href='https://www.franksmovielog.com/reviews/the-killer-nun-1979/' />
-    <id>https://www.franksmovielog.com/reviews/the-killer-nun-1979/</id>
-    <updated>2016-08-19</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-killer-nun-1979/&quot;&gt;The Killer Nun (1979)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
