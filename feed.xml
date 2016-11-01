@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-10-31T21:22:38-04:00</updated>
+  <updated>2016-10-31T21:24:45-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Torso (1973)</title>
+    <link href='https://www.franksmovielog.com/reviews/torso-1973/' />
+    <id>https://www.franksmovielog.com/reviews/torso-1973/</id>
+    <updated>2016-11-01T01:24:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/torso-1973/&quot;&gt;Torso (1973)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>The Pit (1981)</title>
     <link href='https://www.franksmovielog.com/reviews/the-pit-1981/' />
@@ -26,15 +35,6 @@
     <updated>2016-10-18T00:44:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/phantasm-1979/&quot;&gt;Phantasm (1979)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Torso (1973)</title>
-    <link href='https://www.franksmovielog.com/reviews/torso-1973/' />
-    <id>https://www.franksmovielog.com/reviews/torso-1973/</id>
-    <updated>2016-10-11T00:28:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/torso-1973/&quot;&gt;Torso (1973)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
   <entry>
