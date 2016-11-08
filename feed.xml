@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-10-31T21:24:45-04:00</updated>
+  <updated>2016-11-07T22:12:03-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Curse of the Demon (1958)</title>
+    <link href='https://www.franksmovielog.com/reviews/curse-of-the-demon-1958/' />
+    <id>https://www.franksmovielog.com/reviews/curse-of-the-demon-1958/</id>
+    <updated>2016-11-08T03:11:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/curse-of-the-demon-1958/&quot;&gt;Curse of the Demon (1958)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Torso (1973)</title>
     <link href='https://www.franksmovielog.com/reviews/torso-1973/' />
@@ -89,15 +98,6 @@
     <updated>2016-09-05T18:58:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/haunted-gold-1932/&quot;&gt;Haunted Gold (1932)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Suicide Squad (2016)</title>
-    <link href='https://www.franksmovielog.com/reviews/suicide-squad-2016/' />
-    <id>https://www.franksmovielog.com/reviews/suicide-squad-2016/</id>
-    <updated>2016-08-29</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/suicide-squad-2016/&quot;&gt;Suicide Squad (2016)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
