@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-11-18T10:27:19-05:00</updated>
+  <updated>2016-11-21T22:41:09-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Sagebrush Trail (1933)</title>
+    <link href='https://www.franksmovielog.com/reviews/sagebrush-trail-1933/' />
+    <id>https://www.franksmovielog.com/reviews/sagebrush-trail-1933/</id>
+    <updated>2016-11-22T03:40:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/sagebrush-trail-1933/&quot;&gt;Sagebrush Trail (1933)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>The Sentinel (1977)</title>
     <link href='https://www.franksmovielog.com/reviews/the-sentinel-1977/' />
@@ -89,15 +98,6 @@
     <updated>2016-09-20T02:02:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/ride-him-cowboy-1932/&quot;&gt;Ride Him, Cowboy (1932)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Don't Breathe (2016)</title>
-    <link href='https://www.franksmovielog.com/reviews/dont-breathe-2016/' />
-    <id>https://www.franksmovielog.com/reviews/dont-breathe-2016/</id>
-    <updated>2016-09-12T23:53:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/dont-breathe-2016/&quot;&gt;Don&#39;t Breathe (2016)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
