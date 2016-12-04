@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-11-21T22:41:09-05:00</updated>
+  <updated>2016-12-03T20:15:54-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Doctor Strange (2016)</title>
+    <link href='https://www.franksmovielog.com/reviews/doctor-strange-2016/' />
+    <id>https://www.franksmovielog.com/reviews/doctor-strange-2016/</id>
+    <updated>2016-11-29T02:18:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/doctor-strange-2016/&quot;&gt;Doctor Strange (2016)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Sagebrush Trail (1933)</title>
     <link href='https://www.franksmovielog.com/reviews/sagebrush-trail-1933/' />
@@ -89,15 +98,6 @@
     <updated>2016-09-27T00:06:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-witch-2015/&quot;&gt;The Witch (2015)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Ride Him, Cowboy (1932)</title>
-    <link href='https://www.franksmovielog.com/reviews/ride-him-cowboy-1932/' />
-    <id>https://www.franksmovielog.com/reviews/ride-him-cowboy-1932/</id>
-    <updated>2016-09-20T02:02:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/ride-him-cowboy-1932/&quot;&gt;Ride Him, Cowboy (1932)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
