@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-12-03T20:15:54-05:00</updated>
+  <updated>2016-12-05T22:21:51-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>The Getaway (1972)</title>
+    <link href='https://www.franksmovielog.com/reviews/the-getaway-1972/' />
+    <id>https://www.franksmovielog.com/reviews/the-getaway-1972/</id>
+    <updated>2016-12-06T03:05:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-getaway-1972/&quot;&gt;The Getaway (1972)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Doctor Strange (2016)</title>
     <link href='https://www.franksmovielog.com/reviews/doctor-strange-2016/' />
@@ -89,15 +98,6 @@
     <updated>2016-10-04T00:57:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/riders-of-destiny-1933/&quot;&gt;Riders of Destiny (1933)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>The Witch (2015)</title>
-    <link href='https://www.franksmovielog.com/reviews/the-witch-2015/' />
-    <id>https://www.franksmovielog.com/reviews/the-witch-2015/</id>
-    <updated>2016-09-27T00:06:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-witch-2015/&quot;&gt;The Witch (2015)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
