@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-12-19T21:18:39-05:00</updated>
+  <updated>2016-12-28T23:52:57-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Jack Frost (1997)</title>
+    <link href='https://www.franksmovielog.com/reviews/jack-frost-1997/' />
+    <id>https://www.franksmovielog.com/reviews/jack-frost-1997/</id>
+    <updated>2016-12-27T02:15:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/jack-frost-1997/&quot;&gt;Jack Frost (1997)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Straw Dogs (1971)</title>
     <link href='https://www.franksmovielog.com/reviews/straw-dogs-1971/' />
@@ -89,15 +98,6 @@
     <updated>2016-10-18T00:44:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/phantasm-1979/&quot;&gt;Phantasm (1979)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Mars Attacks (1996)</title>
-    <link href='https://www.franksmovielog.com/reviews/mars-attacks-1996/' />
-    <id>https://www.franksmovielog.com/reviews/mars-attacks-1996/</id>
-    <updated>2016-10-11T00:28:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/mars-attacks-1996/&quot;&gt;Mars Attacks (1996)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
