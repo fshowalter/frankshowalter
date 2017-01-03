@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2016-12-28T23:52:57-05:00</updated>
+  <updated>2017-01-02T21:54:08-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Christmas Evil (1980)</title>
+    <link href='https://www.franksmovielog.com/reviews/christmas-evil-1980/' />
+    <id>https://www.franksmovielog.com/reviews/christmas-evil-1980/</id>
+    <updated>2017-01-03T02:52:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/christmas-evil-1980/&quot;&gt;Christmas Evil (1980)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Jack Frost (1997)</title>
     <link href='https://www.franksmovielog.com/reviews/jack-frost-1997/' />
@@ -89,15 +98,6 @@
     <updated>2016-10-24T19:04:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-pit-1981/&quot;&gt;The Pit (1981)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Phantasm (1979)</title>
-    <link href='https://www.franksmovielog.com/reviews/phantasm-1979/' />
-    <id>https://www.franksmovielog.com/reviews/phantasm-1979/</id>
-    <updated>2016-10-18T00:44:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/phantasm-1979/&quot;&gt;Phantasm (1979)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
