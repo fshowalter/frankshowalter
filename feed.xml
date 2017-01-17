@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-01-10T22:33:48-05:00</updated>
+  <updated>2017-01-16T20:43:00-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>The Big Stampede (1932)</title>
+    <link href='https://www.franksmovielog.com/reviews/the-big-stampede-1932/' />
+    <id>https://www.franksmovielog.com/reviews/the-big-stampede-1932/</id>
+    <updated>2017-01-17T01:41:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-big-stampede-1932/&quot;&gt;The Big Stampede (1932)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Ocean's Thirteen (2007)</title>
     <link href='https://www.franksmovielog.com/reviews/oceans-thirteen-2007/' />
@@ -89,15 +98,6 @@
     <updated>2016-11-08T03:11:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/curse-of-the-demon-1958/&quot;&gt;Curse of the Demon (1958)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Torso (1973)</title>
-    <link href='https://www.franksmovielog.com/reviews/torso-1973/' />
-    <id>https://www.franksmovielog.com/reviews/torso-1973/</id>
-    <updated>2016-11-01T01:24:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/torso-1973/&quot;&gt;Torso (1973)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
