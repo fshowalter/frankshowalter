@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-01-16T20:43:00-05:00</updated>
+  <updated>2017-01-23T21:00:34-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Green Room (2015)</title>
+    <link href='https://www.franksmovielog.com/reviews/green-room-2015/' />
+    <id>https://www.franksmovielog.com/reviews/green-room-2015/</id>
+    <updated>2017-01-24T01:57:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/green-room-2015/&quot;&gt;Green Room (2015)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>The Big Stampede (1932)</title>
     <link href='https://www.franksmovielog.com/reviews/the-big-stampede-1932/' />
@@ -89,15 +98,6 @@
     <updated>2016-11-15T01:08:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-sentinel-1977/&quot;&gt;The Sentinel (1977)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Curse of the Demon (1958)</title>
-    <link href='https://www.franksmovielog.com/reviews/curse-of-the-demon-1958/' />
-    <id>https://www.franksmovielog.com/reviews/curse-of-the-demon-1958/</id>
-    <updated>2016-11-08T03:11:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/curse-of-the-demon-1958/&quot;&gt;Curse of the Demon (1958)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
