@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-01-30T21:03:33-05:00</updated>
+  <updated>2017-02-03T14:57:48-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Men Are Such Fools (1938)</title>
+    <link href='https://www.franksmovielog.com/reviews/men-are-such-fools-1938/' />
+    <id>https://www.franksmovielog.com/reviews/men-are-such-fools-1938/</id>
+    <updated>2017-02-01T01:57:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/men-are-such-fools-1938/&quot;&gt;Men Are Such Fools (1938)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Green Room (2015)</title>
     <link href='https://www.franksmovielog.com/reviews/green-room-2015/' />
@@ -89,15 +98,6 @@
     <updated>2016-11-22T03:40:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/sagebrush-trail-1933/&quot;&gt;Sagebrush Trail (1933)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>The Sentinel (1977)</title>
-    <link href='https://www.franksmovielog.com/reviews/the-sentinel-1977/' />
-    <id>https://www.franksmovielog.com/reviews/the-sentinel-1977/</id>
-    <updated>2016-11-15T01:08:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-sentinel-1977/&quot;&gt;The Sentinel (1977)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
