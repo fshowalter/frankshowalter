@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-02-06T19:51:06-05:00</updated>
+  <updated>2017-02-13T22:21:37-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Maléfique (2002)</title>
+    <link href='https://www.franksmovielog.com/reviews/malefique-2002/' />
+    <id>https://www.franksmovielog.com/reviews/malefique-2002/</id>
+    <updated>2017-02-14T03:18:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/malefique-2002/&quot;&gt;Maléfique (2002)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>The Bird with the Crystal Plumage (1970)</title>
     <link href='https://www.franksmovielog.com/reviews/the-bird-with-the-crystal-plumage-1970/' />
@@ -89,15 +98,6 @@
     <updated>2016-12-06T03:05:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-getaway-1972/&quot;&gt;The Getaway (1972)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Doctor Strange (2016)</title>
-    <link href='https://www.franksmovielog.com/reviews/doctor-strange-2016/' />
-    <id>https://www.franksmovielog.com/reviews/doctor-strange-2016/</id>
-    <updated>2016-11-29T02:18:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/doctor-strange-2016/&quot;&gt;Doctor Strange (2016)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
