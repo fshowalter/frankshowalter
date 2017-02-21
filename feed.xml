@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-02-13T22:21:37-05:00</updated>
+  <updated>2017-02-20T21:12:47-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>John Wick: Chapter 2 (2017)</title>
+    <link href='https://www.franksmovielog.com/reviews/john-wick-chapter-2-2017/' />
+    <id>https://www.franksmovielog.com/reviews/john-wick-chapter-2-2017/</id>
+    <updated>2017-02-21T02:09:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/john-wick-chapter-2-2017/&quot;&gt;John Wick: Chapter 2 (2017)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Maléfique (2002)</title>
     <link href='https://www.franksmovielog.com/reviews/malefique-2002/' />
@@ -89,15 +98,6 @@
     <updated>2016-12-20T02:12:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/straw-dogs-1971/&quot;&gt;Straw Dogs (1971)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>The Getaway (1972)</title>
-    <link href='https://www.franksmovielog.com/reviews/the-getaway-1972/' />
-    <id>https://www.franksmovielog.com/reviews/the-getaway-1972/</id>
-    <updated>2016-12-06T03:05:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-getaway-1972/&quot;&gt;The Getaway (1972)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
