@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-02-20T21:13:08-05:00</updated>
+  <updated>2017-03-02T20:45:06-05:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Cathy's Curse (1977)</title>
+    <link href='https://www.franksmovielog.com/reviews/cathys-curse-1977/' />
+    <id>https://www.franksmovielog.com/reviews/cathys-curse-1977/</id>
+    <updated>2017-02-28T02:09:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/cathys-curse-1977/&quot;&gt;Cathy&#39;s Curse (1977)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>John Wick: Chapter 2 (2017)</title>
     <link href='https://www.franksmovielog.com/reviews/john-wick-chapter-2-2017/' />
@@ -89,15 +98,6 @@
     <updated>2016-12-27T02:15:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/jack-frost-1997/&quot;&gt;Jack Frost (1997)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Straw Dogs (1971)</title>
-    <link href='https://www.franksmovielog.com/reviews/straw-dogs-1971/' />
-    <id>https://www.franksmovielog.com/reviews/straw-dogs-1971/</id>
-    <updated>2016-12-20T02:12:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/straw-dogs-1971/&quot;&gt;Straw Dogs (1971)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
