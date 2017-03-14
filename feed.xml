@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-03-13T20:10:26-04:00</updated>
+  <updated>2017-03-13T22:10:24-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>The Telegraph Trail (1933)</title>
+    <link href='https://www.franksmovielog.com/reviews/the-telegraph-trail-1933/' />
+    <id>https://www.franksmovielog.com/reviews/the-telegraph-trail-1933/</id>
+    <updated>2017-03-14T02:09:58Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-telegraph-trail-1933/&quot;&gt;The Telegraph Trail (1933)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Island of Death (1977)</title>
     <link href='https://www.franksmovielog.com/reviews/island-of-death-1977/' />
@@ -89,15 +98,6 @@
     <updated>2017-01-10T03:32:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/oceans-thirteen-2007/&quot;&gt;Ocean&#39;s Thirteen (2007)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Christmas Evil (1980)</title>
-    <link href='https://www.franksmovielog.com/reviews/christmas-evil-1980/' />
-    <id>https://www.franksmovielog.com/reviews/christmas-evil-1980/</id>
-    <updated>2017-01-03T02:52:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/christmas-evil-1980/&quot;&gt;Christmas Evil (1980)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
