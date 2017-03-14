@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-03-02T20:45:06-05:00</updated>
+  <updated>2017-03-13T20:10:26-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Island of Death (1977)</title>
+    <link href='https://www.franksmovielog.com/reviews/island-of-death-1977/' />
+    <id>https://www.franksmovielog.com/reviews/island-of-death-1977/</id>
+    <updated>2017-03-07T02:04:58Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/island-of-death-1977/&quot;&gt;Island of Death (1977)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Cathy's Curse (1977)</title>
     <link href='https://www.franksmovielog.com/reviews/cathys-curse-1977/' />
@@ -89,15 +98,6 @@
     <updated>2017-01-03T02:52:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/christmas-evil-1980/&quot;&gt;Christmas Evil (1980)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Jack Frost (1997)</title>
-    <link href='https://www.franksmovielog.com/reviews/jack-frost-1997/' />
-    <id>https://www.franksmovielog.com/reviews/jack-frost-1997/</id>
-    <updated>2016-12-27T02:15:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/jack-frost-1997/&quot;&gt;Jack Frost (1997)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
