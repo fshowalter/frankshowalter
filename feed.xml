@@ -5,11 +5,29 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-03-20T00:15:17-04:00</updated>
+  <updated>2017-04-03T23:47:49-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Logan (2017)</title>
+    <link href='https://www.franksmovielog.com/reviews/logan-2017/' />
+    <id>https://www.franksmovielog.com/reviews/logan-2017/</id>
+    <updated>2017-04-04T03:45:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/logan-2017/&quot;&gt;Logan (2017)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
+  <entry>
+    <title>What We Do in the Shadows (2014)</title>
+    <link href='https://www.franksmovielog.com/reviews/what-we-do-in-the-shadows-2014/' />
+    <id>https://www.franksmovielog.com/reviews/what-we-do-in-the-shadows-2014/</id>
+    <updated>2017-03-27T04:04:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/what-we-do-in-the-shadows-2014/&quot;&gt;What We Do in the Shadows (2014)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Get Out (2017)</title>
     <link href='https://www.franksmovielog.com/reviews/get-out-2017/' />
@@ -80,24 +98,6 @@
     <updated>2017-01-31T01:57:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/men-are-such-fools-1938/&quot;&gt;Men Are Such Fools (1938)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Green Room (2015)</title>
-    <link href='https://www.franksmovielog.com/reviews/green-room-2015/' />
-    <id>https://www.franksmovielog.com/reviews/green-room-2015/</id>
-    <updated>2017-01-24T01:57:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/green-room-2015/&quot;&gt;Green Room (2015)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>The Big Stampede (1932)</title>
-    <link href='https://www.franksmovielog.com/reviews/the-big-stampede-1932/' />
-    <id>https://www.franksmovielog.com/reviews/the-big-stampede-1932/</id>
-    <updated>2017-01-17T01:41:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-big-stampede-1932/&quot;&gt;The Big Stampede (1932)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
