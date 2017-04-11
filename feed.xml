@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-04-03T23:47:49-04:00</updated>
+  <updated>2017-04-10T21:31:02-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Breakfast at Tiffany's (1961)</title>
+    <link href='https://www.franksmovielog.com/reviews/breakfast-at-tiffanys-1961/' />
+    <id>https://www.franksmovielog.com/reviews/breakfast-at-tiffanys-1961/</id>
+    <updated>2017-04-11T01:28:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/breakfast-at-tiffanys-1961/&quot;&gt;Breakfast at Tiffany&#39;s (1961)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Logan (2017)</title>
     <link href='https://www.franksmovielog.com/reviews/logan-2017/' />
@@ -89,15 +98,6 @@
     <updated>2017-02-07T00:49:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-bird-with-the-crystal-plumage-1970/&quot;&gt;The Bird with the Crystal Plumage (1970)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Men Are Such Fools (1938)</title>
-    <link href='https://www.franksmovielog.com/reviews/men-are-such-fools-1938/' />
-    <id>https://www.franksmovielog.com/reviews/men-are-such-fools-1938/</id>
-    <updated>2017-01-31T01:57:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/men-are-such-fools-1938/&quot;&gt;Men Are Such Fools (1938)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
