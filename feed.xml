@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-04-10T21:31:02-04:00</updated>
+  <updated>2017-04-17T23:10:30-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Shock (1946)</title>
+    <link href='https://www.franksmovielog.com/reviews/shock-1946/' />
+    <id>https://www.franksmovielog.com/reviews/shock-1946/</id>
+    <updated>2017-04-18T03:06:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/shock-1946/&quot;&gt;Shock (1946)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Breakfast at Tiffany's (1961)</title>
     <link href='https://www.franksmovielog.com/reviews/breakfast-at-tiffanys-1961/' />
@@ -89,15 +98,6 @@
     <updated>2017-02-14T03:18:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/malefique-2002/&quot;&gt;Maléfique (2002)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>The Bird with the Crystal Plumage (1970)</title>
-    <link href='https://www.franksmovielog.com/reviews/the-bird-with-the-crystal-plumage-1970/' />
-    <id>https://www.franksmovielog.com/reviews/the-bird-with-the-crystal-plumage-1970/</id>
-    <updated>2017-02-07T00:49:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/the-bird-with-the-crystal-plumage-1970/&quot;&gt;The Bird with the Crystal Plumage (1970)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
