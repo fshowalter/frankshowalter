@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-04-17T23:10:30-04:00</updated>
+  <updated>2017-04-24T23:35:05-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Deadpool (2016)</title>
+    <link href='https://www.franksmovielog.com/reviews/deadpool-2016/' />
+    <id>https://www.franksmovielog.com/reviews/deadpool-2016/</id>
+    <updated>2017-04-25T03:27:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/deadpool-2016/&quot;&gt;Deadpool (2016)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Shock (1946)</title>
     <link href='https://www.franksmovielog.com/reviews/shock-1946/' />
@@ -89,15 +98,6 @@
     <updated>2017-02-21T02:09:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/john-wick-chapter-2-2017/&quot;&gt;John Wick: Chapter 2 (2017)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>Maléfique (2002)</title>
-    <link href='https://www.franksmovielog.com/reviews/malefique-2002/' />
-    <id>https://www.franksmovielog.com/reviews/malefique-2002/</id>
-    <updated>2017-02-14T03:18:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/malefique-2002/&quot;&gt;Maléfique (2002)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
