@@ -5,11 +5,20 @@
   <link href='http://www.frankshowalter.com/' />
   <icon>http://www.frankshowalter.com/favicon.ico</icon>
   <logo>http://www.frankshowalter.com/images/frank.jpg</logo>
-  <updated>2017-04-24T23:35:05-04:00</updated>
+  <updated>2017-05-01T22:02:53-04:00</updated>
   <id>https://www.frankshowalter.com/</id>
   <author>
     <name>Frank Showalter</name>
   </author>
+  <entry>
+    <title>Raw (2016)</title>
+    <link href='https://www.franksmovielog.com/reviews/raw-2016/' />
+    <id>https://www.franksmovielog.com/reviews/raw-2016/</id>
+    <updated>2017-05-02T02:00:00Z</updated>
+    <content type='html'>
+      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/raw-2016/&quot;&gt;Raw (2016)&lt;/a&gt; on Frank&#39;s Movie Log.
+    </content>
+  </entry>
   <entry>
     <title>Deadpool (2016)</title>
     <link href='https://www.franksmovielog.com/reviews/deadpool-2016/' />
@@ -89,15 +98,6 @@
     <updated>2017-02-28T02:09:00Z</updated>
     <content type='html'>
       I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/cathys-curse-1977/&quot;&gt;Cathy&#39;s Curse (1977)&lt;/a&gt; on Frank&#39;s Movie Log.
-    </content>
-  </entry>
-  <entry>
-    <title>John Wick: Chapter 2 (2017)</title>
-    <link href='https://www.franksmovielog.com/reviews/john-wick-chapter-2-2017/' />
-    <id>https://www.franksmovielog.com/reviews/john-wick-chapter-2-2017/</id>
-    <updated>2017-02-21T02:09:00Z</updated>
-    <content type='html'>
-      I reviewed &lt;a href=&quot;https://www.franksmovielog.com/reviews/john-wick-chapter-2-2017/&quot;&gt;John Wick: Chapter 2 (2017)&lt;/a&gt; on Frank&#39;s Movie Log.
     </content>
   </entry>
 </feed>
